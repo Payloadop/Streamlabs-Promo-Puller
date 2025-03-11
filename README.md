@@ -11,6 +11,7 @@ This script automates the process of claiming Discord Nitro promo codes through 
 - **Promo Code Extraction**: Automatically extracts 1-month and 3-month Discord Nitro promo codes.
 - **Account Management**: Removes used or invalid accounts from the list.
 - **Error Handling**: Retries failed attempts and logs errors for debugging.
+- **Cloudflare Bypass** : Exclusive Cloudflare Bypass Added.. Credits to notlit and switch
 
 ---
 
