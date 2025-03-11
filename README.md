@@ -53,4 +53,5 @@ Before using this script, ensure you have the following:
 - **@notlit69**
 - **@switchuwu**
 - **CF Bypass Support**
-
+## Join Discord 
+- **discord.gg/payloadtheskid**
